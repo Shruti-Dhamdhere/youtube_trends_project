@@ -38,7 +38,7 @@ I also learned about Decorators in Python and Unit Testing.
 
 ## Tableau Dashboard - JYP Girlgroups Youtube Stats
 
-[![Dashboard in Tableau Public](img/tabpub.png)](https://public.tableau.com/views/JYPGirlgroupsYoutubeStats/JYPGirlgroupsYoutubeStats?:language=es-ES&:display_count=n&:origin=viz_share_link)
+[![Dashboard in Tableau Public]](https://public.tableau.com/views/JYPGirlgroupsYoutubeStats/JYPGirlgroupsYoutubeStats?:language=es-ES&:display_count=n&:origin=viz_share_link)
 
 Find the direct link to see the full dashboard in Tableau Public [here](https://public.tableau.com/views/JYPGirlgroupsYoutubeStats/JYPGirlgroupsYoutubeStats?:language=es-ES&:display_count=n&:origin=viz_share_link).
 

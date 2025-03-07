@@ -42,9 +42,6 @@ I also learned about Decorators in Python and Unit Testing.
 
 Find the direct link to see the full dashboard in Tableau Public [here](https://public.tableau.com/views/JYPGirlgroupsYoutubeStats/JYPGirlgroupsYoutubeStats?:language=es-ES&:display_count=n&:origin=viz_share_link).
 
-A quick preview of the "Complete" Dashboard in Tableau Desktop
-![Tableau Desktop Dashboard Previes](img/tableau.gif)
-
 
 ## Development Process
 
